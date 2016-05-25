@@ -1,2 +1,3 @@
 Git  is  a version contel.
 Git  is a soft.
+Git has a mutable index called stage.
